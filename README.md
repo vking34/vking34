@@ -5,7 +5,9 @@
 - 🎓 I just graduated at Hanoi University of Science and Technology with the Software Engineering major.
 - 🌱 I’m currently learning Kafka, Recommendation Framework, ...
 - 👯 I’m looking to collaborate with good developers.
-- 🥅 2020 Goals: Build a Search and Recommendation system.
+- 🥅 2020 Goals:
+    - Build a Search and Recommendation system.
+    - Contribute a Open Source project.
 - ⚡ Fun facts:
     - I love to make music but i know i am talented in music. I'm still trying.
     - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
@@ -39,7 +41,7 @@
 
 <img align="left" alt="Kubernetes" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 
-<img align="left" alt="Jenkins" style="margin-right: 10px" width="26px" src="https://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png" />
+<img align="left" alt="Jenkins" style="margin-right: 10px" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
 
 <img align="left" alt="Git" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
