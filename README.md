@@ -21,7 +21,6 @@
 
 <br />
 
-
 ### Languages, Technologies, Tools:
 <img align="left" alt="Java" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
@@ -46,6 +45,28 @@
 <img align="left" alt="Git" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Terminal" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+<br/>
+
+### I'm listening to 🎼
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21z3q7cfz5kwruusfb6yodafi)
+
+<br/>
+<br/>
+
+<!-- <details> -->
+  <summary>GitHub Stats</summary>
+
+<img align="left" alt="vking34's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vking34&show_icons=true&hide_border=true" />
+
+<!-- </details> -->
+
+<br/>
+<br/>
+<br/>
+
 
 
 [twitter]: https://twitter.com/VKing34
