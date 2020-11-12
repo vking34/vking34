@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, my name is __Vuong__
 
-<!--
-**vking34/vking34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a back-end engineer, music lover, film lover from 🇻🇳
 
-Here are some ideas to get you started:
+- 🎓 I just graduated at Hanoi University of Science and Technology with the Software Engineering major.
+- 🌱 I’m currently learning Kafka, Recommendation Framework, ...
+- 👯 I’m looking to collaborate with good developers.
+- 🥅 2020 Goals: Build a Search and Recommendation system.
+- ⚡ Fun facts:
+    - I love to make music but i know i am talented in music. I'm still trying.
+    - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img style="margin-right: 8px" align="left" alt="vking34 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="margin-right: 8px" align="left" alt="vking34 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img style="margin-right: 8px" align="left" alt="vking34 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="margin-right: 8px" align="left" alt="vking34 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+### Languages, Technologies, Tools:
+<img align="left" alt="Java" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+<img align="left" alt="JavaScript" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Python" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Postgres" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="MongoDB" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Redis" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+
+<img align="left" alt="Kafka" style="margin-right: 10px" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg" />
+
+<img align="left" alt="Docker" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Kubernetes" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+
+<img align="left" alt="Jenkins" style="margin-right: 10px" width="26px" src="https://assets.stickpng.com/thumbs/58480984cef1014c0b5e4902.png" />
+
+<img align="left" alt="Git" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="Terminal" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+[twitter]: https://twitter.com/VKing34
+[facebook]: https://www.facebook.com/vking34/
+[linkedin]: https://www.linkedin.com/in/vking34/
+[instagram]: https://www.instagram.com/vking34/
