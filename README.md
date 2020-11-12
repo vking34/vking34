@@ -51,7 +51,7 @@
 
 ### I'm listening to 🎼
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21z3q7cfz5kwruusfb6yodafi)
+[<img src="https://spotify-api.vking34.vercel.app/api/spotify" alt="vking34 listening" width="350" />](https://open.spotify.com/user/21z3q7cfz5kwruusfb6yodafi)
 
 <br/>
 <br/>
