@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with good developers.
 - 🥅 2020 Goals:
     - Build a Search and Recommendation system.
-    - Contribute a Open Source project.
+    - Contribute to a Open Source project.
 - ⚡ Fun facts:
     - I love to make music but i know i am talented in music. I'm still trying.
     - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
