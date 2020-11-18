@@ -9,7 +9,7 @@
     - Build a Search and Recommendation system.
     - Contribute to a Open Source project.
 - ⚡ Fun facts:
-    - I love to make music but i know i am talented in music. I'm still trying.
+    - I love to make music but i know i am not talented in music. I'm still trying.
     - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
 
 ### Connect with me:
