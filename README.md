@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
+[<img style="margin-right: 8px" align="left" alt="vking34 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img style="margin-right: 8px" align="left" alt="vking34 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img style="margin-right: 8px" align="left" alt="vking34 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img style="margin-right: 8px" align="left" alt="vking34 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="margin-right: 8px" align="left" alt="vking34 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
