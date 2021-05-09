@@ -2,12 +2,11 @@
 
 ## I am a back-end engineer, music lover, film lover from 🇻🇳
 
-- 🎓 I just graduated at Hanoi University of Science and Technology with the Software Engineering major.
-- 🌱 I’m currently learning Kafka, Recommendation Framework, ...
+- 🌱 I’m currently learning Recommendation Framework, Event-Driven Architecture ...
 - 👯 I’m looking to collaborate with good developers.
-- 🥅 2020 Goals:
-    - Build a Search and Recommendation system.
-    - Contribute to a Open Source project.
+- 🥅 2021 Goals:
+    - Build a Search and Recommendation system and a high-load system.
+    - Contribute to another Open Source project.
 - ⚡ Fun facts:
     - I know i am not talented in music. But I love to make music so I'm still trying.
     - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
