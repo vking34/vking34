@@ -1,11 +1,12 @@
 ### Hi there <a href="https://www.instagram.com/vking34"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, my name is __Vuong__
 
-## I am a backend engineer, music lover, film lover from 🇻🇳
+## I am a software engineer, music lover and film lover from 🇻🇳
 
 - 🌱 I’m currently learning Recommendation Framework, Event-Driven Architecture ...
 - 👯 I’m looking to collaborate with good developers.
 - 🥅 2021 Goals:
-    - Build a Search and Recommendation system and a high-load system.
+    - Learn more about software architect.
+    - Design a system with relibility, high availibility, durability.
     - Contribute to another Open Source project.
 - ⚡ Fun facts:
     - I know i am not talented in music. But I love to make music so I'm still trying.
@@ -56,9 +57,9 @@
 <br/>
 
 <!-- <details> -->
-  <summary>GitHub Stats</summary>
+<!--   <summary>GitHub Stats</summary> -->
 
-<img align="left" alt="vking34's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vking34&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="vking34's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vking34&show_icons=true&hide_border=true" /> -->
 
 <!-- </details> -->
 
