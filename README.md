@@ -2,12 +2,9 @@
 
 ## I am a software engineer, music lover and film lover from 🇻🇳
 
-- 🌱 I’m currently learning Recommendation Framework, Event-Driven Architecture ...
+- 🌱 I’m currently developing a Software Egnineering Class called [Ronin Engineer](https://www.facebook.com/profile.php?id=100095333061256)
+- 🌱 I'm contributing to [System Design VN](https://www.facebook.com/groups/systemdesign.vn) community
 - 👯 I’m looking to collaborate with good developers.
-- 🥅 2021 Goals:
-    - Learn more about software architect.
-    - Design a system with relibility, high availibility, durability.
-    - Contribute to another Open Source project.
 - ⚡ Fun facts:
     - I know i am not talented in music. But I love to make music so I'm still trying.
     - I love to watch classic films in 40-60s. For instance, Casablanca (1942), Rashomon (1950), Some Like It Hot (1959), Psycho (1960), ...
@@ -21,7 +18,7 @@
 
 <br />
 
-### Languages, Technologies, Tools:
+### I'm interested in:
 <img align="left" alt="Java" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="JavaScript" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -49,22 +46,7 @@
 <br/>
 <br/>
 
-### I'm listening to 🎼
 
-[<img src="https://spotify-api.vking34.vercel.app/api/spotify" alt="vking34 listening" width="350" />](https://open.spotify.com/user/21z3q7cfz5kwruusfb6yodafi)
-
-<br/>
-<br/>
-
-<!-- <details> -->
-<!--   <summary>GitHub Stats</summary> -->
-
-<!-- <img align="left" alt="vking34's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vking34&show_icons=true&hide_border=true" /> -->
-
-<!-- </details> -->
-
-<br/>
-<br/>
 <br/>
 
 
